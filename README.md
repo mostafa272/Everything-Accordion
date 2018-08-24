@@ -1,6 +1,9 @@
 # Everything-Accordion
 The Everything Accordion is a simple widget that shows wordpress widgets, posts and pages in an pretty accordion.
 
+## Installation                            
+Download everything-accordion.zip file and upload it to wordpress uploads folder, then activate it. If you download release file, you should extract it to find everything-accordion.zip file.
+
 
 ## Donate to support us                                     
                                                                    
